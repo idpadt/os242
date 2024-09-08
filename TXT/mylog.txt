@@ -1,9 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+# I Dewa Putu Aditya Rahman - 2106650456
 
 ZCZC W00 30 L00 General
 ZCZC W00 20 L01 Scele related
 ZCZC W00 10 L03 Github related
 ZCZC W00 15 L06 Books and reference related
 ZCZC W00 60 L09 Assignment things
+
+ZCZC W01 30 L00 General
+ZCZC W01 20 L01 Scele related
+ZCZC W01 10 L03 Github related
+ZCZC W01 15 L06 Books and reference related
+ZCZC W01 60 L09 Assignment things
