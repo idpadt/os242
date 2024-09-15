@@ -14,3 +14,11 @@ ZCZC W01 20 L01 Scele related
 ZCZC W01 10 L03 Github related
 ZCZC W01 15 L06 Books and reference related
 ZCZC W01 60 L09 Assignment things
+
+ZCZC W02 30 L00 General
+ZCZC W02 20 L01 Scele related
+ZCZC W02 10 L03 Github related
+ZCZC W02 15 L06 Books and reference related
+ZCZC W02 60 L09 Assignment things
+
+
