@@ -30,5 +30,11 @@ permalink: LINKS/
 
 * [Linux - Tarballs, Archive and Compress Folders (tar)](https://www.youtube.com/watch?v=l0yqs8t6ywo) <br>
 --- A short simple video explaining what tarballs are, how to make one, and how to extract it.
+
+### Week 4
+* [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) <br>
+--- A short video filled with tidbits of useful information, with added dash of humour.
+
+
 <br>
 <hr>
