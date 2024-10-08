@@ -35,6 +35,9 @@ permalink: LINKS/
 * [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) <br>
 --- A short video filled with tidbits of useful information, with added dash of humour.
 
+### Week 5
+* [Linux Memory Management — All you need to know](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386) <br>
+--- Nifty page filled with stuff about linux memory management. Well I am currently studying about it, so I should probably add this.
 
 <br>
 <hr>
