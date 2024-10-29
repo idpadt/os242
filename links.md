@@ -39,5 +39,13 @@ permalink: LINKS/
 * [Linux Memory Management — All you need to know](https://hemantra.medium.com/linux-memory-management-all-you-need-to-know-d1dbdda8b386) <br>
 --- Nifty page filled with stuff about linux memory management. Well I am currently studying about it, so I should probably add this.
 
+### Week 6
+* [Operating System Processes by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn) <br>
+--- A playlist full of videos about processes by Neso Academy on youtube.
+
+* [Operating System Threads by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh5YXKAPCZPVZPkdhQa9Skz) <br>
+--- A playlist full of videos about threads by Neso Academy on youtube. 
+
+
 <br>
 <hr>
