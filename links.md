@@ -46,6 +46,10 @@ permalink: LINKS/
 * [Operating System Threads by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh5YXKAPCZPVZPkdhQa9Skz) <br>
 --- A playlist full of videos about threads by Neso Academy on youtube. 
 
+### Week 7
+* [Process Synchronization by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) <br>
+--- A playlist full of videos about process synchronization by Neso Academy on youtube.
+
 
 <br>
 <hr>

@@ -45,3 +45,9 @@ ZCZC W06 10 L03 Github related
 ZCZC W06 15 L06 Books and reference related
 ZCZC W06 60 L09 Assignment things
 
+ZCZC W07 30 L00 General
+ZCZC W07 20 L01 Scele related
+ZCZC W07 10 L03 Github related
+ZCZC W07 15 L06 Books and reference related
+ZCZC W07 60 L09 Assignment things
+
