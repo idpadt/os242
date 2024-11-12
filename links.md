@@ -50,6 +50,10 @@ permalink: LINKS/
 * [Process Synchronization by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) <br>
 --- A playlist full of videos about process synchronization by Neso Academy on youtube.
 
+### Week 8
+* [CPU Scheduling by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) <br>
+--- A playlist full of videos about CPU scheduling by Neso Academy on youtube.
+
 
 <br>
 <hr>
