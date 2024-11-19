@@ -54,6 +54,9 @@ permalink: LINKS/
 * [CPU Scheduling by Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) <br>
 --- A playlist full of videos about CPU scheduling by Neso Academy on youtube.
 
+### Week 9
+* [Linux From Scratch](https://www.linuxfromscratch.org) <br>
+--- The Linux From Scratch homepage, pretty useful.
 
 <br>
 <hr>
